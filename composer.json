@@ -32,7 +32,7 @@
     ],
     "require": {
         "php": "^8.2",
-      "illuminate/auth": "^10.0",  // Laravel 10 compatible version
+      "illuminate/auth": "^10.0", 
     "illuminate/container": "^10.0",
     "illuminate/contracts": "^10.0",
         "mongodb/laravel-mongodb": "^4.6"
