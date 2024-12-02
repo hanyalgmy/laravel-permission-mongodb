@@ -14,7 +14,7 @@
         "spatie",
         "jenssegers"
     ],
-    "homepage": "https://github.com/mostafamaklad/laravel-permission-mongodb",
+    "homepage": "https://github.com/hanyalagmy/laravel-permission-mongodb",
     "license": "MIT",
     "authors": [
         {
@@ -35,7 +35,7 @@
       "illuminate/auth": "^10.0", 
     "illuminate/container": "^10.0",
     "illuminate/contracts": "^10.0",
-        "mongodb/laravel-mongodb": "^4.6"
+        "mongodb/laravel-mongodb": "^5.1"
     },
     "require-dev": {
         "monolog/monolog": "^3.2",
